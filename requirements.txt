@@ -1,0 +1,9 @@
+boto3
+from-root
+python-multipart
+streamlit
+pandas
+numpy
+scikit-learn
+catboost
+joblib
